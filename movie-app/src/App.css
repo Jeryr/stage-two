@@ -1,0 +1,74 @@
+.trailer{
+ background-color: #BE123C;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 0.5rem;
+}
+.rate, .percentage, .text{
+ color: white;
+ font-weight: 400;
+ font-size: 1rem;
+ 
+}
+#title{
+ font-size: 2rem;
+ font-weight: bolder;
+}
+.percentage, .featured-percentage{
+ margin-left: 1rem;
+}
+.see{
+ display: flex;
+ justify-content: space-between;
+}
+.featured-rate, .featured-percentage, #featured-title{
+  color: black;
+ font-weight: 700;
+ font-size: larger;
+}
+#link{
+  text-decoration: none;
+}
+#featured-movie{
+ font-size: 1.8rem;
+ font-weight: 700;
+}
+#see-more{
+ color: #BE123C;
+ font-weight: 700;
+ font-size: 1rem
+}
+#featured-card{
+ margin-top: 2rem;
+}
+.see{
+ margin-top: 2.5rem;
+}
+.icons{
+ margin-top: 5rem;
+ display: flex;
+ justify-content: center;
+ 
+}
+.icon, .condition{
+ margin-right: 2rem;
+ font-size: large;
+ font-weight: 700;
+}
+.conditions{
+ margin-top: 5rem;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 2rem;
+}
+#cc{
+ text-align: center;
+}
+#details-title{
+  font-size: 2rem;
+  font-weight: 700;
+  font-style: italic;
+  color: #BE123C;
+}
