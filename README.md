@@ -1,15 +1,16 @@
-# Movie App
+# Movie Application
 
 This is a React-based web application that allows users to explore and discover top-rated movies.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Key](#api-key)
-- [Contributing](#contributing)
-- [License](#license)
+- [Movie Application](#movie-application)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [API Key](#api-key)
+  - [Contributing](#contributing)
 
 ## Features
 
@@ -39,7 +40,6 @@ REACT_APP_API_KEY=your_api_key_here
 ## Contributing
 Feel free to contribute to this project. If you find any bugs or have feature requests, please open an issue. Pull requests are also welcome.
 
- ## Live link https://movie-7xcsbq8f4-aisosaaghedo.vercel.app
 
 
 
